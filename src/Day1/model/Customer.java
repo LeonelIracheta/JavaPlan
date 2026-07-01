@@ -1,4 +1,4 @@
-package Day1;
+package Day1.model;
 
 public class Customer {
 
