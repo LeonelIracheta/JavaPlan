@@ -277,8 +277,6 @@ Para componentes auxiliares o utilidades que no pertenecen a una capa específic
 
 # Resumen de Entrevista
 
-Si solo recuerdas una frase por tema:
-
 ```text
 HashMap → hashCode() determina el bucket.
 
