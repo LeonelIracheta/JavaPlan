@@ -6,7 +6,7 @@ import Day2.strategy.PaymentProcessor;
 
 public class Main {
     public static void main(String[] args) {
-        PaymentProcessor processor = PaymentFactory.create(PaymentType.BANK_TRANSFER);
+        PaymentProcessor processor = PaymentFactory.create(PaymentType.PAYPAL);
         processor.processPayment(100.00);
     }
 }
